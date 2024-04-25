@@ -5,7 +5,7 @@
 THis is our first class asigned homework for week 1 of class. I hope to fullfill all acceptance criteria and deploy my first project to github.
 
 
-[Deployed webpage screenshot](assets/images/screenshot.png)
+[Deployed webpage screenshot](assets/images/Screenshot.png)
 
 
 # The following acceptance criteria for this assignment are as follows. 
